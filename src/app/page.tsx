@@ -130,7 +130,7 @@ export default function Home() {
                 <div className={styles.grid}>
                     <div className={styles.footer}>
                         <div className={styles.left}>
-                            <Image src='/favicon.ico' width={27} height={27}/>
+                            <Image src='/favicon.ico' width={27} height={27} alt='favicon.ico'/>
                             <p>Chat with any PDF: ask questions, get summaries, find information, and more.</p>
                             <div className={styles.iconList}>
                                 <span>
